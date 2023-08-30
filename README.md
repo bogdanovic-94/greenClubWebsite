@@ -13,4 +13,4 @@ Build with HTML and CSS
 - Animations
 
 Kind regards,
-@HerMilan94
+Milan
