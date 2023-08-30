@@ -7,6 +7,10 @@
 ---
 
 Build with HTML and CSS
+- Semantic HTML
+- Flexbox
+- Grid
+- Animations
 
 Kind regards,
 @HerMilan94
